@@ -1,6 +1,6 @@
 import pyqiwi
 
-wallet = pyqiwi.Wallet(token='9404b0ca0ccf756829d3d972f5b0bb5c', number='79237481901')
+wallet = pyqiwi.Wallet(token='11', number='111')
 
 print(wallet.balance())
 
